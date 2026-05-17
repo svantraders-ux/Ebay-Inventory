@@ -3,7 +3,7 @@ import hashlib
 
 app = Flask(__name__)
 
-VERIFICATION_TOKEN = "inventoryverifytoken123456789"
+VERIFICATION_TOKEN = "asdfghjjllpoiuytrdcffgghjklpoiygg"
 
 ENDPOINT = "https://ebay-inventory-webhook.onrender.com"
 
